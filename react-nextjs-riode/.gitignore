@@ -1,0 +1,6 @@
+.vercel
+node_moduels
+build
+.env
+/.yarn
+/.idea
